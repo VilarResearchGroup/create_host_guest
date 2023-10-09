@@ -1,0 +1,14 @@
+chloride
+                    3D
+ Schrodinger Suite 2023-3.
+  1  0  0  0  1  0            999 V2000
+    0.0000    0.0000    0.0000 Cl  0  5  0  0  0  0
+M  CHG  1   1  -1
+M  END
+> <s_m_entry_id>
+94
+
+> <s_m_entry_name>
+entry
+
+$$$$
